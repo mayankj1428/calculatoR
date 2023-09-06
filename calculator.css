@@ -1,0 +1,11 @@
+.container1{
+    width: 100vw;
+    height: 100vh;
+}
+.outerbody{
+    width: 500px;
+    height: 90vh;
+}
+.result{
+    font-family: 'VT323', monospace;
+}
